@@ -1,0 +1,23 @@
+    1  R
+    2  cat /home/user/.sudo_as_admin_successful 
+    3  sudo shutdown -h now
+    4  git clone git@github.com:fmusila/ReproducibleResearchRStudio.git
+    5  git status
+    6  less .gitignore
+    7  quit
+    8  ls
+    9  git status
+   10  git add .gitignore
+   11  git status
+   12  git add ReproducibleResearchRStudio.Rproj 
+   13  git status
+   14  git commit -m"add r project"
+   15  musilamutie@gmail.com
+   16  git remote add origin https://github.com/fmusila/Introduction-to-Linux.git
+   17  git status
+   18  git commit -m "add r project"
+   19  git config --global user.email "musilamutie@gmail.com"
+   20  git config --global user.name "fmusila"
+   21  git commit -m "add r project"
+   22  git push -u origin master
+   23  history > history.txt
